@@ -21,7 +21,7 @@
 
 ## 🚀 About Me
 ```javascript
-const sila = {
+const tafadzwa = {
   pronouns: "he" | "him",
   code: ["JavaScript", "Python", "HTML/CSS", "Node.js"],
   tools: ["WhatsApp Bot", "Automation Scripts", "Web Scraping"],
