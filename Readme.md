@@ -13,7 +13,7 @@
     <img src="https://img.shields.io/badge/WhatsApp_Channel-Join-green?style=for-the-badge&logo=whatsapp" alt="WhatsApp Channel">
   </a>
   <a href="https://youtube.com/@tafadzwa-tkt">
-    <img src="https://img.shields.io/badge/YouTube-Silatrix22-red?style=for-the-badge&logo=youtube" alt="YouTube">
+    <img src="https://img.shields.io/badge/YouTube-Tafadzwatkt-red?style=for-the-badge&logo=youtube" alt="YouTube">
   </a>
 </p>
 
