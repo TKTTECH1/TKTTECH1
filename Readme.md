@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://files.catbox.moe/jwmx1j.jpg" width="300" height="300" style="border-radius:50%; border:5px solid #00d4ff; box-shadow:0 0 20px rgba(0,212,255,0.5);">
+  <img src="https://files.catbox.moe/1cp4yq.jpeg" width="300" height="300" style="border-radius:50%; border:5px solid #00d4ff; box-shadow:0 0 20px rgba(0,212,255,0.5);">
 </p>
 
 <h1 align="center">👋 Hello! I'm TKT-TECH /𝐓𝐀𝐅𝐀𝐃𝐙𝐖𝐀-𝐓𝐊𝐓</h1>
